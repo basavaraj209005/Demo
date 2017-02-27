@@ -7,6 +7,7 @@ public class Simple {
 		System.out.println("hi");
 		System.out.println("how r u");
 		System.out.println("one");
+		System.out.println("second");
 		
 		
 	}
